@@ -2,7 +2,7 @@
   "update": [
     {
       "id":"1.12.2",
-      "version" : -1,
+      "version" : 2,
       "url" : "https://github.com/IWuMingI/MinecraftForge-Mixin"
     },
     {
