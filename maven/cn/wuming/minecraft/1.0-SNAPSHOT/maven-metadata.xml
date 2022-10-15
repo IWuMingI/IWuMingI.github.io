@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.wuming</groupId>
+  <artifactId>minecraft</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221029.082506</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20221029082506</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.0-20221029.082506-3</value>
+        <updated>20221029082506</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20221029.082506-3</value>
+        <updated>20221029082506</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20221029.082506-3</value>
+        <updated>20221029082506</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
