@@ -2,22 +2,22 @@
   "update": [
     {
       "name": "hello",
-      "package": "cn.wuming.hello",
       "description": {
-										"version": "1",
-										"version_code": 1,
-										"text": "awa",
-										"next_version": 2
-							}
+							 "text": "awa",
+        "info": {
+          "next_version": "2"
+          "time": "2009-08-27"
+        }
+						}
     },
     {
-      "name": "hello",
-      "package": "cn.wuming.hello",
+      "name": "wow",
       "description": {
-										"version": "1",
-										"version_code": 1,
-										"text": "awa",
-										"next_version": 2
+							 "text": "awa",
+        "info": {
+          "next_version": "2"
+          "time": "2009-08-27"
+        }
 						}
     }
 		]
