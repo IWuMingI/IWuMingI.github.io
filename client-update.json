@@ -1,26 +1,24 @@
 {
-  "simple": [
+  "update": [
     {
-      "id": "1.12.2",
-      "version": 1,
-      "url": "https://github.com/IWuMingI/MinecraftForge-Mixin"
+      "name": "hello",
+      "package": "cn.wuming.hello",
+      "description": {
+										"version": "1",
+										"version_code": 1,
+										"text": "awa",
+										"next_version": 2
+							}
     },
     {
-      "id": "1.8.9",
-      "version": 1,
-      "url": "https://github.com/IWuMingI/SimpleClient"
+      "name": "hello",
+      "package": "cn.wuming.hello",
+      "description": {
+										"version": "1",
+										"version_code": 1,
+										"text": "awa",
+										"next_version": 2
+						}
     }
-  ],
-  "hacked": [
-    {
-      "id": "1.12.2",
-      "version": 1,
-      "url": "https://github.com/IWuMingI/MinecraftForge-Mixin"
-    },
-    {
-      "id": "1.8.9",
-      "version": 1,
-      "url": "https://github.com/IWuMingI/MinecraftForge-Mixin"
-    }
-  ]
+		]
 }
